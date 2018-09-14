@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TP3 Java Android</string>
+    <string name="voltar">Voltar</string>
+    <string name="Users">Users</string>
+    <string name="user">user</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string name="visualizar_usu_rios">Visualizar usuários</string>
+    <string name="digite_a_cidade">Digite a cidade</string>
+    <string name="digite_o_cpf">Digite o CPF</string>
+    <string name="digite_o_n_mero_do_celular">Digite o número do celular</string>
+    <string name="digite_o_n_mero_de_telefone">Digite o número de telefone</string>
+    <string name="digite_a_senha">Digite a senha</string>
+    <string name="digite_o_email">Digite o email</string>
+    <string name="digite_o_nome">Digite o nome</string>
+</resources>
